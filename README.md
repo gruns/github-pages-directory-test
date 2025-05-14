@@ -1,0 +1,1 @@
+test github pages support for directories and subdirectories
